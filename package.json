@@ -1,0 +1,24 @@
+{
+  "name": "async-log",
+  "version": "0.1.0",
+  "description": "Utility and sample code for logging async operations in the context of a web-server using the async_hooks core api",
+  "keywords": [
+    "nodejs",
+    "async",
+    "helper",
+    "async-hooks"
+  ],
+  "homepage": "https://github.com/marian-cojoc-ro/async-log",
+  "bugs": "https://github.com/marian-cojoc-ro/async-log/issues",
+  "main": "index.js",
+  "repository": "https://github.com/marian-cojoc-ro/async-log.git",
+  "author": "Marian COJOC ro <marian.cojoc.ro@gmail.com> (https://github.com/marian-cojoc-ro)",
+  "files": [
+    "README.md",
+    "demo.js"
+  ],
+  "engines": {
+    "node": ">=8.1.0"
+  },
+  "license": "Unlicense"
+}
